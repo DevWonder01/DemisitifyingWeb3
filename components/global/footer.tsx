@@ -21,25 +21,14 @@ const Footer = () => {
                                 <linearGradient id="paint8_linear_11430_22515" x1="7.15667" y1="21.5399" x2="14.0824" y2="31.9579" gradientUnits="userSpaceOnUse"><stop stop-color="#0092FF" /><stop offset="1" stop-color="#45B2FF" /></linearGradient>
                             </defs>
                         </svg>
-                        Flowbite
+                        WEB3 UNILAG/NAPS
                     </a>
                     <p className="my-6 text-gray-500 dark:text-gray-400">Open-source library of over 400+ web components and interactive elements built for better web.</p>
                     <ul className="flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-black">
                         <li>
                             <a href="#" className="mr-4 hover:underline md:mr-6 ">About</a>
                         </li>
-                        <li>
-                            <a href="#" className="mr-4 hover:underline md:mr-6">Premium</a>
-                        </li>
-                        <li>
-                            <a href="#" className="mr-4 hover:underline md:mr-6 ">Campaigns</a>
-                        </li>
-                        <li>
-                            <a href="#" className="mr-4 hover:underline md:mr-6">Blog</a>
-                        </li>
-                        <li>
-                            <a href="#" className="mr-4 hover:underline md:mr-6">Affiliate Program</a>
-                        </li>
+               
                         <li>
                             <a href="#" className="mr-4 hover:underline md:mr-6">FAQs</a>
                         </li>
@@ -47,7 +36,7 @@ const Footer = () => {
                             <a href="#" className="mr-4 hover:underline md:mr-6">Contact</a>
                         </li>
                     </ul>
-                    <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2021-2022 <a href="#" className="hover:underline">Flowbite™</a>. All Rights Reserved.</span>
+                    <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="#" className="hover:underline">NAPS</a>. All Rights Reserved.</span>
                 </div>
             </footer>
         </>
